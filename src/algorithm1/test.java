@@ -12,5 +12,5 @@ public class test {
 	    	int lastPosition = positionofTarget.solution(arr,2);
 	    	System.out.println(lastPosition+"");
 	}
-
 }
+	
